@@ -14,6 +14,7 @@ body
     left: 50%;
     transform: translate(-50%,-50%);
     background: #191919;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -25,7 +26,6 @@ body
 
 .box input[type="text"],.box input[type="password"]
 {
-    border: 0;
     background: none;
     display: block;
     margin: 20px auto;
